@@ -1,6 +1,6 @@
 .my_navbar2 {
   max-width: 80px;
-  background-color: #f5c62e;
+  background-color: #1e3aec;
   height: 100vh;
   position: fixed;
   z-index: 100;
@@ -48,6 +48,7 @@
 }
 .my-container .container_works .box_work_left {
   padding-left: 45px;
+  background-color: #1e3aec;
 }
 @media screen and (max-width: 600px) {
   .my-container .container_works .box_work_left_mobile {
